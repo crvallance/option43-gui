@@ -1,6 +1,12 @@
+#!/usr/bin/env python
+"""43gooey.py: An Option43 hex generator for Cisco WLCs."""
 from gooey import Gooey, GooeyParser
 import ipaddress
 import sys
+__author__ = "Colin Vallance"
+__license__ = "GPL-3.0-or-later"
+__version__ = "1.0.1"
+__status__ = "Development"
 
 # Option 43 reference information
 '''
