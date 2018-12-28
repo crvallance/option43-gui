@@ -28,7 +28,7 @@ See below.
 
 ```
 #!bash
-git clone https://crvallance@bitbucket.org/crvallance/option43-gui.git
+git clone https://bitbucket.org/crvallance/option43-gui.git
 cd option43-gui/
 pipenv install
 pipenv run 43gooey.py
